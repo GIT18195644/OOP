@@ -1,0 +1,74 @@
+@charset "ISO-8859-1";
+
+.container{
+	background-color: #C6EBE2 ;
+	
+}
+
+.colomn{
+	margin-left:30%;
+}
+
+
+/*header*/
+.topnav {
+    overflow: hidden;
+    background-color: #302e2e;
+}
+.topnav-right {
+    float: right;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.column50{
+  margin-top: -80px;
+  float: left;
+  width: 75%;
+  padding: 0px;
+  height: auto; /* Should be removed. Only for demonstration */
+}
+.navmain{
+  overflow: hidden;
+  background-color: #302e2e;
+  height: 150px;
+  margin-top: -30px;
+}
+
+.title{    
+  margin-left: 13%;
+  margin-top: 11%;
+  font-family: "HURTMOLD_";
+  font-size: 60px;
+  font-weight: 600;
+  font-color: white;
+  color: #fff;
+}
+
+/*footer*/
+
+.footer {
+	
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #302e2e;
+  color: white;
+  text-align: left;
+  height: 170px;
+}
+
+.columnfooter {
+  float: left;
+  width: 35.5%;
+  padding: 10px;
+  font-family: "Segoe UI Light";
+}
+
+.columnfooterright {
+  margin-top: 2.4%;
+  float: right;
+  width: 25%;
+  padding: 10px;
+  padding-left: 12%;
+}
+

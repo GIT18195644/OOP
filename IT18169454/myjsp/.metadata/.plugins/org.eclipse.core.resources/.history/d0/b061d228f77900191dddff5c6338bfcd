@@ -1,0 +1,24 @@
+package oss.model;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class dbmanager {
+	public static Connection JDBC_CONNECTION;
+	
+	static {
+		try {
+			String location ="jdbc: mysql: //localhost/Zoodb";
+			String UserName ="admin";
+			String password ="123";
+			JDBC_CONNECTION = DriverManager.getConnection(location,UserName, password);
+		}
+		catch(SQLException ex){
+			System.out.println("exception db manager "+ex.getMessage());
+			
+		}
+		
+		
+	}
+}

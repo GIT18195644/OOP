@@ -1,0 +1,23 @@
+.buy-table-form{
+  width: 100%;
+  height: none;
+  padding: 10px 10px;
+  font-color: black;
+  background-color: yellow;
+}
+
+.buy-table-form-item{
+  width: 25%;
+  height: none;
+  display: block;
+  padding: 10px 10px;
+  border-radius: 30px;
+  background-color: gray;
+  font-color: black;
+}
+
+.buy-table-form-item-details{
+  padding: 10px 10px;
+  width: 100%;
+  height: 50px;  
+}

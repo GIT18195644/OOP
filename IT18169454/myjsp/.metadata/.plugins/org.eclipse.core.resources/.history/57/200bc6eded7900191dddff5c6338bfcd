@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.container{
+	background-color: #C6EBE2 ;
+	
+}
+
+.colomn{
+	margin-left:30%;
+}

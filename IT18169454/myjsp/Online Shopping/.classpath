@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-beanutils-1.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-beanutils-1.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-beanutils-1.9.2-tests.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-beanutils-1.9.2-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/controlsfx-8.20.8.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/groovy-all-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jasperreports-5.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jasperreports-applet-5.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jasperreports-fonts-5.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jasperreports-functions-5.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jasperreports-javaflow-5.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/BIT Project/Damith/projectx/projectx/Libraries/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srihi/Downloads/servlet-api.jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

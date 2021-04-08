@@ -1,0 +1,48 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+<!-- header start -->
+<div class="topnav">
+
+  <a class="active" href="index.html">Zoo</a>
+  <a href="#buynow">Buy Now</a>
+  <a href="#faq">FAQ</a>
+  <a href="#info">Info</a>
+ 
+
+  <div class="topnav-right">
+    <a href="#signup">Sign Up</a>
+    <a href="#login">Login</a>
+  </div>
+  
+</div>
+<div class="navmain">
+ 
+
+  <div class="column50">
+    <div class="title">
+		Zoo | Online Shopping Store
+    </div>
+  </div>
+
+  <div class="column">
+   
+  </div>
+  
+</div>
+<!-- header end -->	
+
+
+
+</head>
+<body>
+
+</body>
+</html>

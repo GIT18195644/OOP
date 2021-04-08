@@ -1,0 +1,4 @@
+DB Name: zoodbdinuka
+Table: zoomembers
+Column names:
+zooID, zooNAME, zooNIC, zooGENDER, zooADDRESS, zooPHONE, zooEMAIL, zooPASSWORD
